@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korisnici">
+        <item></item>
+        <item>Повозрасно Лице</item>
+        <item>Волонтер</item>
+        <item>Организатор</item>
+    </string-array>
+    <string-array name="itnost">
+        <item>Не</item>
+        <item>Да</item>
+    </string-array>
+    <string-array name="povtorlivost">
+        <item>Не</item>
+        <item>Да</item>
+    </string-array>
+</resources>
